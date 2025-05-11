@@ -4,16 +4,24 @@ TITLE: Requirement Analysis in Software Development
 This repository outlines the importance of reqiurement analysis in software
 
 What is Requirement Analysis?
+
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
 Why is Requirement Analysis Important?
+
 Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
+
 Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
+
 Basis for Design and Development: Provides a solid foundation for designing and developing the system.
+
 Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
+
 Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
+
 Key Activities in Requirement Analysis.
+
 . Requirement Gathering 🗂️
 Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
 Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
@@ -41,7 +49,9 @@ Review and Approval: Reviewing the documented requirements with stakeholders to 
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
+
 Types of Requirements
+
 Functional Requirements ⚙️
 Definition: Describe what the system should do.
 Examples: User authentication, property search, booking system, user registration.
@@ -50,3 +60,36 @@ Non-functional Requirements 🛡️
 Definition: Describe how the system should perform.
 Examples: Performance, security, scalability, usability, reliability.
 
+Use Case Diagrams
+
+Objective: Visual representation of interactions between users and the system.
+
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+Creating Use Case Diagrams:
+
+
+Benefits of Use Case Diagrams:
+
+Provide a clear visual representation of system functionalities.
+
+Help in identifying and organizing system requirements.
+
+Facilitate communication among stakeholders and development team.
+<img width="512" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/9534687b-d4ab-4c77-9e5f-22f3fe8170e2" />
+
+Acceptance Criteria
+Objective: Establishing clear criteria for feature completion.
+
+What is Acceptance Criteria?
+
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+Benefits of Acceptance Criteria:
+
+Ensure all parties have a clear understanding of feature requirements.
+
+Provide a basis for testing and validation.
+
+Help in maintaining quality and meeting user expectations.
+
+Example for acceptance criteria: Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.
